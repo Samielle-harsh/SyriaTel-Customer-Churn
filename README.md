@@ -20,3 +20,18 @@ https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/data
 - Decision Tree Classifier
 - Polynomial Regression
 - KMeans Clustering
+
+## Technologies Used
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Jupyter Notebook
+- Git/GitHub
+
+##Visualizations
+
+- Churn distribution bar & pie charts
+- Feature correlation heatmap
+- Cluster plots (KMeans)
+- ROC curve and feature importance
+
+<img width="420" height="295" alt="image" src="https://github.com/user-attachments/assets/8634e2a0-1976-472a-9ce0-2e3932cebbf3" />
